@@ -1,0 +1,2 @@
+# Este script utiliza módulos estándar de Python 3 (math, secrets, re, getpass, argparse).
+# No requiere dependencias externas obligatorias.
